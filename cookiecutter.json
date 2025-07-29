@@ -1,0 +1,8 @@
+{
+    "project_tittle": "project cookiecutter personal",
+    "project_slug": "cookiecutter personal",
+    "project_description": " debe ir algo de descripcion",
+    "project_author": "Fredy Yecid Castro Agray",
+    "project_packages": ["All","Minimal"],
+    "python_version": "3.7"
+}
